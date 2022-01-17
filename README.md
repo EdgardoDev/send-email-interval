@@ -1,6 +1,4 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Send Email Interval" />
-
   &#xa0;
 
   <!-- <a href="https://sendemailinterval.netlify.app">Demo</a> -->
